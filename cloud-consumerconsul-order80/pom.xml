@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-consumerconsul-payment80</artifactId>
+    <artifactId>cloud-consumerconsul-order80</artifactId>
     <description>服务消费者之注册中心consul</description>
 
     <dependencies>

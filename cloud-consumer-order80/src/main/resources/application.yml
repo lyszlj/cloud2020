@@ -11,7 +11,10 @@ spring:
       enabled: true
   application:
     name: cloud-order-service
-
+  zipkin:
+    sleuth:
+      samper:
+        probablitiy: 1
 eureka:
   client:
     register-with-eureka: true
